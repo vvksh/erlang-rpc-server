@@ -43,11 +43,13 @@ ok
 When you execute `tr_server:get_count().` in erlang shell,
 you will get updated counts.
 
+## Test
+Run `tr_server:test()` in erlang shell
+
 ## Install Erlang
 ```shell script
 brew install erlang
 ```
-
 
 ## IDE
 I am using IntelliJ with erlang plugin.
